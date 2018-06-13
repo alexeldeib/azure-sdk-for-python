@@ -43,7 +43,7 @@ class LogAnalyticsDataClientConfiguration(Configuration):
 
 
 class LogAnalyticsDataClient(object):
-    """Log Analytics Data Client
+    """Operational Insights Data Client
 
     :ivar config: Configuration for client.
     :vartype config: LogAnalyticsDataClientConfiguration
